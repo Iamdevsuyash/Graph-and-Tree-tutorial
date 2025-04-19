@@ -34,38 +34,6 @@ This repository contains a hands-on and beginner-friendly tutorial on understand
 
 ---
 
-## 📁 File Structure
-
-```bash
-📂 graphs-tutorial
-│
-├── graphs_and_trees.py       # All graph and tree functions
-├── sample_data.py            # Sample graphs and trees
-├── README.md                 # This file
-```
-
----
-
-## ▶️ Getting Started
-
-Just run the Python file:
-
-```bash
-python graphs_and_trees.py
-```
-
-Make sure to update or input your custom graph structures in the format shown in the examples.
-
----
-
-## 🧠 Notes
-
-- All implementations are **from scratch**, with no external libraries (except `collections`).
-- This project is educational, meant to help you **understand the logic and structure** of graphs and trees.
-- Works well for school/university-level DSA understanding and interview prep.
-
----
-
 ## ✍️ Author
 
 Crafted with 💡 by **Suyash Yadav** – an engineering student passionate about coding, problem-solving, and making learning simple.
