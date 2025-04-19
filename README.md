@@ -1,6 +1,3 @@
-Here’s a concise and clear `README.md` content you can use for your tutorial on **Trees and Graphs in Python**:
-
----
 
 # 🌳 Graphs & Trees Tutorial – Python Implementation
 
@@ -73,6 +70,4 @@ Make sure to update or input your custom graph structures in the format shown in
 
 Crafted with 💡 by **Suyash Yadav** – an engineering student passionate about coding, problem-solving, and making learning simple.
 
----
 
-Let me know if you want to include diagrams, code snippets, or visuals.
